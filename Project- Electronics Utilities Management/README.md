@@ -1,0 +1,3 @@
+# Electronics Utilities Management Project
+Created a database of Electronics Utilities for a Tech store. The store wants to build a website for promoting the store's products to consumers and has a content management page, product management, sales invoices and installments to serve the system. millet.
+The databasebase system includes information of merchandises from big companies like Sony, Sanyo, Samsung, Panasonic, LG, Toshiba, Electrolux, Midea...  
